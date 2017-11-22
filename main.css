@@ -1,0 +1,21 @@
+﻿body {
+    margin: 0px;
+    height: 100%;
+    background-color: black;
+}
+
+#basement{
+    background-image: url(../images/basement.png);
+    background-size:100% 100%;
+   
+    margin: 0px;
+    width: 800px;
+    height:600px;
+    overflow: hidden;
+}
+
+#ninja{
+  position:absolute;
+  left:300px;
+  top:300px;
+}
